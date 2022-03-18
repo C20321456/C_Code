@@ -1,0 +1,10 @@
+This file has some stuff in it
+the c program should be able to read me
+but it should read me line by line
+if the c code is right
+then it should read me and put me
+in seperate lines
+P.S dont forget to run me in a c complier
+with the file.txt attached 
+so that the code can
+read this file
